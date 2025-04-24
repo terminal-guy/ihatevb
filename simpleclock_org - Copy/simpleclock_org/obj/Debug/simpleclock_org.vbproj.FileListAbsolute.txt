@@ -1,0 +1,13 @@
+C:\Visual Studio\simpleclock_org\simpleclock_org\bin\Debug\simpleclock_org.exe.config
+C:\Visual Studio\simpleclock_org\simpleclock_org\bin\Debug\simpleclock_org.exe
+C:\Visual Studio\simpleclock_org\simpleclock_org\bin\Debug\simpleclock_org.pdb
+C:\Visual Studio\simpleclock_org\simpleclock_org\bin\Debug\simpleclock_org.xml
+C:\Visual Studio\simpleclock_org\simpleclock_org\obj\Debug\simpleclock_org.vbproj.AssemblyReference.cache
+C:\Visual Studio\simpleclock_org\simpleclock_org\obj\Debug\simpleclock_org.vbproj.SuggestedBindingRedirects.cache
+C:\Visual Studio\simpleclock_org\simpleclock_org\obj\Debug\simpleclock_org.Form1.resources
+C:\Visual Studio\simpleclock_org\simpleclock_org\obj\Debug\simpleclock_org.Resources.resources
+C:\Visual Studio\simpleclock_org\simpleclock_org\obj\Debug\simpleclock_org.vbproj.GenerateResource.cache
+C:\Visual Studio\simpleclock_org\simpleclock_org\obj\Debug\simpleclock_org.vbproj.CoreCompileInputs.cache
+C:\Visual Studio\simpleclock_org\simpleclock_org\obj\Debug\simpleclock_org.exe
+C:\Visual Studio\simpleclock_org\simpleclock_org\obj\Debug\simpleclock_org.xml
+C:\Visual Studio\simpleclock_org\simpleclock_org\obj\Debug\simpleclock_org.pdb
